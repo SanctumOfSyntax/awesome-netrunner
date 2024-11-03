@@ -71,7 +71,11 @@ If you're new to *Android: Netrunner*, welcome! Here are some resources to help 
   - [Null Signal Game](https://www.youtube.com/@NullSignalGames)
   - [Metropole Grid](https://www.youtube.com/@MetropoleGrid)
   - [Neon Static](https://www.youtube.com/@neonstaticpod) 
+  - [Team Covenant](https://www.youtube.com/@teamcovenant)
 - **Podcasts**:
+  - [The ShadowNet ANR](https://podcasters.spotify.com/pod/show/theshadownetanr/)
+  - [Neon Static](https://podcasters.spotify.com/pod/show/neon-static/)
+  - [The Process ANR](https://podcasters.spotify.com/pod/show/the-process-anr/)
   - [Terminal7](https://www.idlethumbs.net/terminal7/) - Classic *Netrunner* podcast covering lore, game news, and strategies.
 
 
